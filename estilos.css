@@ -97,8 +97,7 @@ body{
     padding: 11px 0 13px;
     display: flex;
     justify-content: center;
-    align-items: center;
-    
+    align-items: center;   
     background-color:rgba(22, 99, 62, 0.907);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: normal;
